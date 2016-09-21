@@ -1,6 +1,7 @@
 
 //  AppDelegate.swift
 
+//OK.  I'm going to type all this out again.
 
 import UIKit
 
